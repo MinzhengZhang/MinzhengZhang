@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, thank you for visiting my github
 
 <!--
 **MinzhengZhang/MinzhengZhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![](https://github-readme-stats.vercel.app/api?username=MinzhengZhang)
+
